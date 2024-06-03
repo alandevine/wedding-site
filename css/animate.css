@@ -2791,7 +2791,7 @@
   animation-name: hinge;
 }
 
-@-webkit-keyframes jackInTheBox {
+@-webkit-keyframes AlanInTheBox {
   from {
     opacity: 0;
     -webkit-transform: scale(0.1) rotate(30deg);
@@ -2817,7 +2817,7 @@
   }
 }
 
-@keyframes jackInTheBox {
+@keyframes AlanInTheBox {
   from {
     opacity: 0;
     -webkit-transform: scale(0.1) rotate(30deg);
@@ -2843,9 +2843,9 @@
   }
 }
 
-.jackInTheBox {
-  -webkit-animation-name: jackInTheBox;
-  animation-name: jackInTheBox;
+.AlanInTheBox {
+  -webkit-animation-name: AlanInTheBox;
+  animation-name: AlanInTheBox;
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
